@@ -5,3 +5,5 @@ Borré todo y puse:
 Que hoy es tres de agosto
 
 Que el tema es de bicis
+
+Que los créditos van para mi
