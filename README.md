@@ -2,6 +2,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Project Date
 ||||||| b896658
 ### Date created
@@ -18,12 +19,21 @@ Include the date you created this project and README file.
 >>>>>>> documentation
 ### 03-08-2021.
 >>>>>>> f9cb434dceb453c9660c6409e129ab2969dc1cb1
+||||||| cfca06d
+<<<<<<< HEAD
+### 03-08-2021
+||||||| b896658
+### Date created
+Include the date you created this project and README file.
+=======
+### 03-08-2021.
+>>>>>>> f9cb434dceb453c9660c6409e129ab2969dc1cb1
+=======
+Borré todo y puse:
+>>>>>>> refactoring
 
-### exam_today
+Que hoy es tres de agosto
 
+Que el tema es de bicis
 
-### bicicletas_bikes
-
-### chicago, new_york_cty and washington
-
-### myself_you_her
+Que los créditos van para mi
